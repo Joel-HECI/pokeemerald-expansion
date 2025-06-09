@@ -35,6 +35,10 @@ gText_Birch_BoyOrGirl::
 	.string "Are you a boy?\n"
 	.string "Or are you a girl?$"
 
+gText_Birch_WhatsYourCharacter::
+	.string "Good.\n"
+	.string "How do you look like?$"
+
 gText_Birch_WhatsYourName::
 	.string "All right.\n"
 	.string "What's your name?$"
